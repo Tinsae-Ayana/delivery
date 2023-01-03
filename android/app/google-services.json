@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068514778008",
+    "project_id": "fir-dilvery",
+    "storage_bucket": "fir-dilvery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068514778008:android:8a19ecf76da6055cbee9ed",
+        "android_client_info": {
+          "package_name": "com.deliver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068514778008-sk0ge2g56q2dm87oksf3uds0pnl6ukna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliver.app",
+            "certificate_hash": "ee93b66fdb2bf016feb11cd6ad81c6d9891950b3"
+          }
+        },
+        {
+          "client_id": "1068514778008-294e8t3c9afd9ig9gif4d9joan3q7hgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHa88FkakQ_JfeWWMf4te8d0ODL0IgWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068514778008-294e8t3c9afd9ig9gif4d9joan3q7hgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
